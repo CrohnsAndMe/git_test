@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AARON-LAPTOP</Machine>
+    <WindowsUser>aaron</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f1ab30d0-d883-45dd-890e-ea57cbaea7e5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>ED890A664AE8698CD4C7894CAC5512E16D0BC46E47A627EA36957CB2893AF45C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f1ab30d0-d883-45dd-890e-ea57cbaea7e5_1.0.0.0_neutral__55h96k12hbgtj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f1ab30d0-d883-45dd-890e-ea57cbaea7e5_55h96k12hbgtj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f1ab30d0-d883-45dd-890e-ea57cbaea7e5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=aaron</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-02T11:20:50.384</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2014-10-02T11:20:49.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T18:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T18:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T18:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T18:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-02T11:20:49.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-02T11:20:49.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-02T11:20:49.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaron\Desktop\Programming\Uni Work\repos\App1\App1\App1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-02T11:20:50.118</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
